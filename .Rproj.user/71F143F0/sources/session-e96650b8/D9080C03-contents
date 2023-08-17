@@ -1,0 +1,18 @@
+---
+title: "About"
+image: IMG_8792.JPG
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: I don't want to let you know
+      href: https://twitter.com
+    - icon: linkedin
+      text: I don't want to let you know
+      href: https://linkedin.com
+    - icon: github
+      text: I don't want to let you know
+      href: https://github.com
+---
+
+About this blog

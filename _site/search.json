@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Blog Welcome",
+    "section": "",
+    "text": "new insight\n\n\n\n\n\n\n\n\n\n\n\n\nChloe\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 16, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 13, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/new-post/index.html",
+    "href": "posts/new-post/index.html",
+    "title": "new insight",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "posts/new-post/index.html#meet-quarto",
+    "href": "posts/new-post/index.html#meet-quarto",
+    "title": "new insight",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "posts/new-post/index.html#meet-the-penguins",
+    "href": "posts/new-post/index.html#meet-the-penguins",
+    "title": "new insight",
+    "section": "Meet the penguins",
+    "text": "Meet the penguins\n\nThe penguins data from the palmerpenguins package contains size measurements for 344 penguins from three species observed on three islands in the Palmer Archipelago, Antarctica.\nThe plot below shows the difference between each island and gender.\n\n\n\n\n\nGenerally speaking, the species of Gentoo penguins have the longest flipper length when compared to the other two species. The second longest flipper length belongs to Chinstrap penguins. Adelie penguins have the smallest flipper and bill length. These differences play a crucial role in the ecological adaptation of penguins.\nThese variations in flipper length among penguin species are closely linked to their evolutionary history and living environments. Gentoo penguins are often found in warmer regions, and their longer flippers might aid them in swimming more efficiently in water and capturing marine food. Chinstrap penguins, on the other hand, frequently inhabit rocky areas, and their longer flipper length could assist them in maneuvering, climbing, and foraging among rocks. Adelie penguins usually reside in extremely cold regions, and their smaller flippers and bills might help reduce heat loss, enabling them to better adapt to cold environments.\nAs for why penguins have such differences in flipper and bill characteristics, this is tied to the adaptive evolution of each species. Further research could involve factors such as ecology, behavior, food sources, and genetics to explain the fundamental reasons behind these differences.And the second long on flipper length is Chinstrap. the Adelie has the smallest flipper and bill length."
+  }
+]

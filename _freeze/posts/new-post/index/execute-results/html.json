@@ -1,0 +1,16 @@
+{
+  "hash": "f4a5bf6c7d68bd63d163f46d883c90da",
+  "result": {
+    "markdown": "---\ntitle: \"new insight\"\nformat: html\neditor: visual\n---\n\n\n\n\n## Meet Quarto\n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.\n\n## Meet the penguins\n\n![](https://raw.githubusercontent.com/quarto-dev/quarto-web/main/docs/get-started/hello/rstudio/lter_penguins.png){style=\"float:right;\" fig-alt=\"Illustration of three species of Palmer Archipelago penguins: Chinstrap, Gentoo, and Adelie. Artwork by @allison_horst.\" width=\"401\"}\n\nThe `penguins` data from the [**palmerpenguins**](https://allisonhorst.github.io/palmerpenguins \"palmerpenguins R package\") package contains size measurements for 344 penguins from three species observed on three islands in the Palmer Archipelago, Antarctica.\n\nThe plot below shows the difference between each island and gender.\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](index_files/figure-html/plot-penguins-1.png){width=672}\n:::\n:::\n\n\n\nGenerally speaking, the species of Gentoo penguins have the longest flipper length when compared to the other two species. The second longest flipper length belongs to Chinstrap penguins. Adelie penguins have the smallest flipper and bill length. These differences play a crucial role in the ecological adaptation of penguins.\n\nThese variations in flipper length among penguin species are closely linked to their evolutionary history and living environments. Gentoo penguins are often found in warmer regions, and their longer flippers might aid them in swimming more efficiently in water and capturing marine food. Chinstrap penguins, on the other hand, frequently inhabit rocky areas, and their longer flipper length could assist them in maneuvering, climbing, and foraging among rocks. Adelie penguins usually reside in extremely cold regions, and their smaller flippers and bills might help reduce heat loss, enabling them to better adapt to cold environments.\n\nAs for why penguins have such differences in flipper and bill characteristics, this is tied to the adaptive evolution of each species. Further research could involve factors such as ecology, behavior, food sources, and genetics to explain the fundamental reasons behind these differences.And the second long on flipper length is Chinstrap. the Adelie has the smallest flipper and bill length. \n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
